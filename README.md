@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mr. Front end Designer</h1>
+<h1 align="center">Hi 👋, I'm Magcodelng</h1>
 <h3 align="center">A passionate frontend developer from ph</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artjohnze&label=Profile%20views&color=0e75b6&style=flat" alt="artjohnze" /> </p>
